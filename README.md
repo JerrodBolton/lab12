@@ -1,2 +1,1 @@
-# lab12
-add on from lab11
+# Assets for BUSMALL Lab
